@@ -1,0 +1,47 @@
+#volba{
+    margin:0px !important;
+    padding: 0px;
+    align-self: center;
+    justify-self: center;
+}
+
+.header{
+    padding: 0px;
+}
+
+.produkt{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.ponuka{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.logo{
+    width: 120px;
+    height: 38px;
+}
+
+.row{
+    margin:0px; 
+}
+
+.col {
+    margin:0px; 
+    padding:0px;
+}
+
+.btn.btn-secondary {
+    height:100%;
+    width:100%;
+}
+
+
+.stranky{
+    margin: 0 auto;
+}
+.container{
+    padding:0px;
+}
